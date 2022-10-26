@@ -1,0 +1,5 @@
+How to use this app
+first open vs code
+then paste this code
+run this code in terminal
+then the timer will open 
